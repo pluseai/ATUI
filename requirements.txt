@@ -1,0 +1,6 @@
+pytest==7.4.4
+pytest-playwright==0.4.3
+playwright==1.48.0
+allure-pytest==2.13.2
+allure-python-commons==2.13.2
+typing-extensions==4.12.2
